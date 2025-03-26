@@ -12,6 +12,9 @@
 ---
 
 ## 🦠 Understanding the SIR Model
+
+![Alt Text](assets/SIR_model.gif)
+
 The **SIR model** is a fundamental compartmental model used in epidemiology to describe the spread of infectious diseases in a population. It divides the population into three compartments:
 
 ### 1. 🟢 S (Susceptible)
@@ -28,7 +31,7 @@ Individuals who have recovered from the disease and are now immune (cannot be in
 ## 📊 Mathematical Formulation
 The SIR model is governed by a system of three Ordinary Differential Equations (ODEs):
 
-![Alt Text](assets/formula.jpg)
+![Alt Text](assets/formula.png)
 
 
 ---
