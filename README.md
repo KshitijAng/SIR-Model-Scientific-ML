@@ -31,6 +31,7 @@ Individuals who have recovered from the disease and are now immune (cannot be in
 ## 📊 Mathematical Formulation
 The SIR model is governed by a system of three Ordinary Differential Equations (ODEs):
 
+![Alt Text](assets/formula_0.png)
 ![Alt Text](assets/formula.png)
 
 
