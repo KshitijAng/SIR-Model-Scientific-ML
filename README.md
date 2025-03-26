@@ -44,18 +44,11 @@ Universal Differential Equations (UDEs) combine traditional differential equatio
 
 ![Alt Text](assets/ude.png)
 
+---
+
 ## 🚀 Applications
 - **Epidemiology:** Understanding and predicting the spread of diseases.
 - **Public Health Policy:** Designing intervention strategies to control outbreaks.
 - **Vaccine Modeling:** Estimating the impact of vaccination campaigns.
 
----
-
-## 🤝 Contributing
-Contributions are welcome! Feel free to fork this repo and submit a pull request.
-
----
-
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
