@@ -13,7 +13,7 @@
 
 ## 🦠 Understanding the SIR Model
 
-![Alt Text](https://raw.githubusercontent.com/KshitijAng/SIR-Model-Scientific-ML/main/assets/SIR_model.gif)
+![Demo](https://raw.githubusercontent.com/KshitijAng/SIR-Model-Scientific-ML/main/assets/SIR_model.gif)
 
 The **SIR model** is a fundamental compartmental model used in epidemiology to describe the spread of infectious diseases in a population. It divides the population into three compartments:
 
