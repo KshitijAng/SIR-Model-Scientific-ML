@@ -45,6 +45,16 @@ Universal Differential Equations (UDEs) combine traditional differential equatio
 ![Alt Text](assets/ude.png)
 
 ---
+** How weights are updated
+
+The following represent the gradient descent update rule for weights in a machine learning model, typically used in linear regression or neural networks. Here's a breakdown:
+
+**θ₁new = θ₁old - η * (∂MSE / ∂θ₁)**
+
+Where:
+- η is the learning rate (step size).
+- ∂MSE / ∂θ is the gradient of the Mean Squared Error (MSE) with respect to each parameter.
+
 
 ## 🚀 Applications
 - **Epidemiology:** Understanding and predicting the spread of diseases.
