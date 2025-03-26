@@ -36,6 +36,14 @@ The SIR model is governed by a system of three Ordinary Differential Equations (
 
 ---
 
+## Universal Differential Equation (UDE)
+
+Universal Differential Equations (UDEs) combine traditional differential equations with neural networks to create flexible models that can learn complex dynamics from data. Instead of discarding known parameters, UDEs incorporate known parameters and use neural networks to model only the **unknown or hard-to-model parameters**.
+
+**Differential Equations + Neural Networks = Universal Differential Equations (UDE)**
+
+![Alt Text](assets/ude.png)
+
 ## 🚀 Applications
 - **Epidemiology:** Understanding and predicting the spread of diseases.
 - **Public Health Policy:** Designing intervention strategies to control outbreaks.
