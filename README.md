@@ -1,4 +1,15 @@
-# SIR Model (Scientific ML)
+# SIR Epidemic Model (With Scientific ML)
+
+## About SIR Model
+Understanding how infectious diseases spread is essential for maintaining the public's health because they have existed throughout human history for centuries. A potent tool for simulating and understanding the dynamics of disease spread is mathematical models. The **SIR (Susceptible-Infectious-Recovered)** is a simple mathematical description of the spread of a disease in a population, which divides the (fixed) population of N individuals into three "compartments" which may vary as a function of time, t:
+ 
+- S(t): are those susceptible but not yet infected with the disease.
+- I(t): is the number of infected individuals.
+- R(t): are those individuals who have recovered from the disease and now have immunity to it.
+
+Based on variables like transmission rate (β) and recovery rate (γ), it simulates how these compartments alter with time.
+
+---
 
 ## 📚 What is Scientific ML?
 **Scientific Machine Learning (SciML)** is an interdisciplinary field that combines traditional **scientific computing** (such as differential equations and physics-based models) with **machine learning (ML)** techniques to create models that can learn from data while respecting physical laws and domain knowledge.
